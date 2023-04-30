@@ -37,3 +37,7 @@
   * Develop a technology that uses sensors or other data to navigate without relying on maps, such as using GPS coordinates or landmarks.
 
   * Use augmented reality to provide navigation guidance without relying on traditional maps.
+  
+  
+ 
+Reducing map costs is a critical challenge for Namma Yatri. By exploring a hybrid model of using open and premium maps, leveraging crowd-sourced and user-generated maps, and exploring disruptive innovations, Namma Yatri can reduce the cost of using maps, while providing a seamless and accurate navigation experience to its users.
